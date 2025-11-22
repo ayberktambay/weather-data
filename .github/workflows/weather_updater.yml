@@ -1,0 +1,41 @@
+name: Update Weather Data
+
+# Tetikleyiciler
+on:
+  schedule:
+    # UTC saatine göre çalışır
+    # Örnek: UTC 03:00 = TR 06:00
+    - cron: '0 3,9,15,21 * * *' 
+  workflow_dispatch: 
+
+jobs:
+  update_data:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+
+    steps:
+      - name: Repoyu Çek (Checkout)
+        uses: actions/checkout@v3
+
+      - name: Python Kurulumu
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Kütüphaneleri Yükle
+        run: pip install requests
+
+      - name: Scripti Çalıştır
+        env:
+          OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
+        run: python update_weather.py
+
+      - name: Değişiklikleri Kaydet ve Gönder
+        run: |
+          git config --global user.name "WeatherBot"
+          git config --global user.email "bot@weather-app.com"
+          git add weather_data.json
+          # Eğer değişiklik yoksa hata vermeden çık
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Otomatik hava durumu guncellemesi" && git push)
