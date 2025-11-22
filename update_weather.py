@@ -6,8 +6,8 @@ API_KEY = os.environ["OPENWEATHER_API_KEY"]
 OUTPUT_FILE = "weather_data.json"
 
 CITIES = [
-    {"name": "İstanbul (Avrupa)", "lat": 41.0082, "lon": 28.9784}, # Fatih/Merkez
-    {"name": "İstanbul (Anadolu)", "lat": 40.9818, "lon": 29.0254}, # Kadıköy
+    {"name": "İstanbul (Avrupa)", "lat": 41.0082, "lon": 28.9784},
+    {"name": "İstanbul (Anadolu)", "lat": 40.9818, "lon": 29.0254},
     {"name": "Adana", "lat": 37.0000, "lon": 35.3213},
     {"name": "Adıyaman", "lat": 37.7648, "lon": 38.2786},
     {"name": "Afyonkarahisar", "lat": 38.7507, "lon": 30.5567},
@@ -115,7 +115,7 @@ def fetch_weather():
                     "hourly": []
                 }
 
-               for hour in data["hourly"][:24]:
+                for hour in data["hourly"][:24]:
                     simplified_data["hourly"].append({
                         "dt": hour["dt"],
                         "temp": hour["temp"],
