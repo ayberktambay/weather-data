@@ -94,39 +94,48 @@ def fetch_weather():
     all_weather_data = []
 
     for city in CITIES:
-        url = f"https://api.openweathermap.org/data/3.0/onecall?lat={city['lat']}&lon={city['lon']}&exclude=minutely,alerts&units=metric&lang=tr&appid={API_KEY}"
+        # 1. (Current Weather)
+        current_url = f"https://api.openweathermap.org/data/2.5/weather?lat={city['lat']}&lon={city['lon']}&units=metric&lang=tr&appid={API_KEY}"
+        # 2. (Forecast)
+        forecast_url = f"https://api.openweathermap.org/data/2.5/forecast?lat={city['lat']}&lon={city['lon']}&units=metric&lang=tr&appid={API_KEY}"
         
         try:
-            response = requests.get(url)
-            if response.status_code == 200:
-                data = response.json()
+            # Anlık veriyi çek
+            current_response = requests.get(current_url)
+            forecast_response = requests.get(forecast_url)
+
+            if current_response.status_code == 200 and forecast_response.status_code == 200:
+                current_data = current_response.json()
+                forecast_data = forecast_response.json()
                 
                 simplified_data = {
                     "city": city["name"],
                     "lat": city["lat"],
                     "lon": city["lon"],
                     "current": {
-                        "temp": data["current"]["temp"],
-                        "feels_like": data["current"]["feels_like"],
-                        "humidity": data["current"]["humidity"],
-                        "description": data["current"]["weather"][0]["description"],
-                        "icon": data["current"]["weather"][0]["icon"]
+                        "temp": current_data["main"]["temp"],
+                        "feels_like": current_data["main"]["feels_like"],
+                        "humidity": current_data["main"]["humidity"],
+                        "description": current_data["weather"][0]["description"],
+                        "icon": current_data["weather"][0]["icon"]
                     },
-                    "hourly": []
+                    "hourly": [] 
                 }
 
-                for hour in data["hourly"][:24]:
+                
+                for item in forecast_data["list"][:8]:
                     simplified_data["hourly"].append({
-                        "dt": hour["dt"],
-                        "temp": hour["temp"],
-                        "description": hour["weather"][0]["description"],
-                        "icon": hour["weather"][0]["icon"]
+                        "dt": item["dt"], # Unix timestamp
+                        "dt_txt": item["dt_txt"], 
+                        "temp": item["main"]["temp"],
+                        "description": item["weather"][0]["description"],
+                        "icon": item["weather"][0]["icon"]
                     })
 
                 all_weather_data.append(simplified_data)
                 print(f"Success: {city['name']}")
             else:
-                print(f"Error {city['name']}: {response.status_code}")
+                print(f"Error {city['name']}: Status Codes - Current: {current_response.status_code}, Forecast: {forecast_response.status_code}")
         
         except Exception as e:
             print(f"Exception {city['name']}: {e}")
