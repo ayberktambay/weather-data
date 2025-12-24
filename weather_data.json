@@ -5,44 +5,23 @@
     "lon": 28.9784,
     "current": {
       "temp": 9.79,
-      "feels_like": 7.94,
-      "humidity": 93,
+      "feels_like": 8.9,
+      "humidity": 100,
       "description": "parçalı bulutlu",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 9.88,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 10.03,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 9.9,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 9.76,
-        "description": "kapalı",
+        "temp": 9.81,
+        "description": "parçalı bulutlu",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 11.84,
+        "temp": 11.16,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
@@ -66,6 +45,27 @@
         "temp": 11.28,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 11.25,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 11.37,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 11.32,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -75,46 +75,25 @@
     "lon": 29.0254,
     "current": {
       "temp": 9.89,
-      "feels_like": 8.06,
-      "humidity": 93,
+      "feels_like": 9.02,
+      "humidity": 100,
       "description": "parçalı bulutlu",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 9.99,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 10.18,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 9.99,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 9.86,
-        "description": "kapalı",
+        "temp": 9.92,
+        "description": "parçalı bulutlu",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 11.78,
-        "description": "parçalı az bulutlu",
-        "icon": "03d"
+        "temp": 11.15,
+        "description": "parçalı bulutlu",
+        "icon": "04d"
       },
       {
         "dt": 1766577600,
@@ -136,6 +115,27 @@
         "temp": 11.32,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 11.25,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 11.37,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 11.35,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -144,45 +144,24 @@
     "lat": 37.0,
     "lon": 35.3213,
     "current": {
-      "temp": 12.86,
-      "feels_like": 11.59,
-      "humidity": 53,
+      "temp": 9.89,
+      "feels_like": 9.48,
+      "humidity": 66,
       "description": "açık",
       "icon": "01n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 12.43,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 10.83,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 9.75,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 10.57,
-        "description": "parçalı az bulutlu",
-        "icon": "03d"
+        "temp": 10.69,
+        "description": "açık",
+        "icon": "01d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 15.98,
+        "temp": 13.95,
         "description": "açık",
         "icon": "01d"
       },
@@ -206,6 +185,27 @@
         "temp": 11.64,
         "description": "açık",
         "icon": "01n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 10.63,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 10.24,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 10.1,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -214,47 +214,26 @@
     "lat": 37.7648,
     "lon": 38.2786,
     "current": {
-      "temp": 4.43,
-      "feels_like": 4.43,
-      "humidity": 63,
-      "description": "az bulutlu",
-      "icon": "02n"
+      "temp": 5.97,
+      "feels_like": 5.97,
+      "humidity": 65,
+      "description": "açık",
+      "icon": "01n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 4.73,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 3.3,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 4.79,
-        "description": "az bulutlu",
-        "icon": "02n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 6.5,
-        "description": "az bulutlu",
-        "icon": "02d"
+        "temp": 5.78,
+        "description": "açık",
+        "icon": "01d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 9.74,
-        "description": "parçalı az bulutlu",
-        "icon": "03d"
+        "temp": 8.48,
+        "description": "az bulutlu",
+        "icon": "02d"
       },
       {
         "dt": 1766577600,
@@ -276,6 +255,27 @@
         "temp": 7.03,
         "description": "açık",
         "icon": "01n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 6.24,
+        "description": "açık",
+        "icon": "01n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 5.49,
+        "description": "az bulutlu",
+        "icon": "02n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 5.11,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -284,46 +284,25 @@
     "lat": 38.7507,
     "lon": 30.5567,
     "current": {
-      "temp": 4.4,
-      "feels_like": 4.4,
-      "humidity": 85,
-      "description": "parçalı bulutlu",
+      "temp": 2.48,
+      "feels_like": 0.71,
+      "humidity": 89,
+      "description": "kapalı",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 4.1,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 3.2,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 3.28,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 3.74,
+        "temp": 2.66,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 8.54,
-        "description": "parçalı bulutlu",
+        "temp": 6.52,
+        "description": "kapalı",
         "icon": "04d"
       },
       {
@@ -346,6 +325,27 @@
         "temp": 6.71,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 5.98,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 5.56,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 5.14,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -354,45 +354,24 @@
     "lat": 39.7191,
     "lon": 43.0503,
     "current": {
-      "temp": -0.98,
-      "feels_like": -0.98,
-      "humidity": 68,
-      "description": "kapalı",
-      "icon": "04n"
+      "temp": -2.99,
+      "feels_like": -2.99,
+      "humidity": 74,
+      "description": "parçalı az bulutlu",
+      "icon": "03n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": -1,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": -1.25,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": -2.03,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": -0.88,
+        "temp": -2.39,
         "description": "parçalı az bulutlu",
         "icon": "03d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 1.95,
+        "temp": 0.3,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
@@ -416,6 +395,27 @@
         "temp": -1.21,
         "description": "parçalı bulutlu",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": -1.47,
+        "description": "parçalı az bulutlu",
+        "icon": "03n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": -1.9,
+        "description": "parçalı az bulutlu",
+        "icon": "03n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": -2.64,
+        "description": "az bulutlu",
+        "icon": "02n"
       }
     ]
   },
@@ -424,47 +424,26 @@
     "lat": 38.3687,
     "lon": 34.037,
     "current": {
-      "temp": 5.18,
-      "feels_like": 5.18,
-      "humidity": 87,
-      "description": "parçalı bulutlu",
+      "temp": 4.07,
+      "feels_like": 4.07,
+      "humidity": 70,
+      "description": "kapalı",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 5.1,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 1.9,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 6.51,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 6.24,
+        "temp": 3.66,
         "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 9.9,
-        "description": "parçalı az bulutlu",
-        "icon": "03d"
+        "temp": 7.96,
+        "description": "parçalı bulutlu",
+        "icon": "04d"
       },
       {
         "dt": 1766577600,
@@ -486,6 +465,27 @@
         "temp": 6.71,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 6.45,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 5.7,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 5.47,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -494,45 +494,24 @@
     "lat": 40.6501,
     "lon": 35.836,
     "current": {
-      "temp": 8.99,
-      "feels_like": 8.99,
-      "humidity": 95,
+      "temp": 8.8,
+      "feels_like": 8.8,
+      "humidity": 93,
       "description": "kapalı",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 8.81,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 8.44,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 7.81,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 8.23,
+        "temp": 8.78,
         "description": "hafif yağmur",
         "icon": "10d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 10.52,
+        "temp": 9.95,
         "description": "hafif yağmur",
         "icon": "10d"
       },
@@ -556,6 +535,27 @@
         "temp": 7.02,
         "description": "parçalı az bulutlu",
         "icon": "03n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 5.91,
+        "description": "parçalı az bulutlu",
+        "icon": "03n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 4.99,
+        "description": "parçalı az bulutlu",
+        "icon": "03n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 4.59,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -564,45 +564,24 @@
     "lat": 39.9334,
     "lon": 32.8597,
     "current": {
-      "temp": 5.29,
-      "feels_like": 5.29,
-      "humidity": 95,
+      "temp": 5.04,
+      "feels_like": 5.04,
+      "humidity": 93,
       "description": "parçalı bulutlu",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 4.83,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 3.86,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 2.32,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 3.17,
+        "temp": 4.26,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 7.51,
+        "temp": 6.69,
         "description": "parçalı az bulutlu",
         "icon": "03d"
       },
@@ -626,6 +605,27 @@
         "temp": 5.4,
         "description": "parçalı bulutlu",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 4.68,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 4.77,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 4.47,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -642,37 +642,16 @@
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 11.89,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 11.3,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 12.95,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 13.55,
+        "temp": 12.21,
         "description": "hafif yağmur",
         "icon": "10d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 14.38,
+        "temp": 13.58,
         "description": "hafif yağmur",
         "icon": "10d"
       },
@@ -696,6 +675,27 @@
         "temp": 13.87,
         "description": "hafif yağmur",
         "icon": "10n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 14.11,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 13.75,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 13.75,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -704,45 +704,24 @@
     "lat": 41.1105,
     "lon": 42.7022,
     "current": {
-      "temp": -9.32,
-      "feels_like": -9.32,
-      "humidity": 94,
-      "description": "kapalı",
+      "temp": -7.58,
+      "feels_like": -7.58,
+      "humidity": 95,
+      "description": "parçalı bulutlu",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": -9.45,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": -9.56,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": -9.89,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": -7.01,
+        "temp": -6.54,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": -2.03,
+        "temp": -3.88,
         "description": "kapalı",
         "icon": "04d"
       },
@@ -766,6 +745,27 @@
         "temp": -9.49,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": -8.54,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": -7.07,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": -5.64,
+        "description": "hafif kar yağışlı",
+        "icon": "13n"
       }
     ]
   },
@@ -774,45 +774,24 @@
     "lat": 41.1828,
     "lon": 41.8183,
     "current": {
-      "temp": 5.82,
-      "feels_like": 4.36,
-      "humidity": 66,
+      "temp": 4.01,
+      "feels_like": 2.34,
+      "humidity": 70,
       "description": "kapalı",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 5.65,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 4.99,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 4.82,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 6.28,
+        "temp": 4.69,
         "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 9.21,
+        "temp": 7.48,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
@@ -836,6 +815,27 @@
         "temp": 6.18,
         "description": "hafif yağmur",
         "icon": "10n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 5.6,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 5.06,
+        "description": "orta şiddetli yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 5.23,
+        "description": "hafif yağmur",
+        "icon": "10n"
       }
     ]
   },
@@ -844,46 +844,25 @@
     "lat": 37.8444,
     "lon": 27.8458,
     "current": {
-      "temp": 8.73,
-      "feels_like": 7.27,
+      "temp": 7.73,
+      "feels_like": 5.15,
       "humidity": 93,
       "description": "sisli",
       "icon": "50n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 9.28,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 8.42,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 11.41,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 10.84,
-        "description": "kapalı",
-        "icon": "04d"
+        "temp": 7.9,
+        "description": "parçalı az bulutlu",
+        "icon": "03d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 14.71,
-        "description": "kapalı",
+        "temp": 12.38,
+        "description": "parçalı bulutlu",
         "icon": "04d"
       },
       {
@@ -906,6 +885,27 @@
         "temp": 12.16,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 11.78,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 11.96,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 11.34,
+        "description": "orta şiddetli yağmur",
+        "icon": "10n"
       }
     ]
   },
@@ -914,45 +914,24 @@
     "lat": 39.6484,
     "lon": 27.8826,
     "current": {
-      "temp": 8.7,
-      "feels_like": 7.23,
-      "humidity": 87,
-      "description": "parçalı az bulutlu",
-      "icon": "03n"
+      "temp": 6.7,
+      "feels_like": 6.7,
+      "humidity": 93,
+      "description": "parçalı bulutlu",
+      "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 8.42,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 7.39,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 6.07,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 6.02,
+        "temp": 5.32,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 10.3,
+        "temp": 9.1,
         "description": "kapalı",
         "icon": "04d"
       },
@@ -976,6 +955,27 @@
         "temp": 9.67,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 9.28,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 9.58,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 9.05,
+        "description": "hafif yağmur",
+        "icon": "10n"
       }
     ]
   },
@@ -984,45 +984,24 @@
     "lat": 41.6344,
     "lon": 32.3375,
     "current": {
-      "temp": 9.98,
-      "feels_like": 9.18,
-      "humidity": 89,
-      "description": "kapalı",
+      "temp": 9.09,
+      "feels_like": 8.16,
+      "humidity": 84,
+      "description": "parçalı bulutlu",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 9.86,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 9.33,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 8.55,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 8.69,
+        "temp": 9.14,
         "description": "hafif yağmur",
         "icon": "10d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 11.9,
+        "temp": 10.96,
         "description": "kapalı",
         "icon": "04d"
       },
@@ -1046,6 +1025,27 @@
         "temp": 9.34,
         "description": "parçalı bulutlu",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 8.72,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 8.56,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 8.35,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -1054,47 +1054,26 @@
     "lat": 37.8812,
     "lon": 41.1228,
     "current": {
-      "temp": 4.9,
-      "feels_like": 2.32,
-      "humidity": 81,
+      "temp": 0.9,
+      "feels_like": 0.9,
+      "humidity": 86,
       "description": "açık",
       "icon": "01n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 5.12,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 4.55,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 5.44,
-        "description": "açık",
-        "icon": "01n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 6.66,
+        "temp": 1.32,
         "description": "açık",
         "icon": "01d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 10.12,
-        "description": "az bulutlu",
-        "icon": "02d"
+        "temp": 7.05,
+        "description": "açık",
+        "icon": "01d"
       },
       {
         "dt": 1766577600,
@@ -1116,6 +1095,27 @@
         "temp": 7.93,
         "description": "az bulutlu",
         "icon": "02n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 6.8,
+        "description": "açık",
+        "icon": "01n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 5.72,
+        "description": "açık",
+        "icon": "01n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 4.68,
+        "description": "açık",
+        "icon": "01n"
       }
     ]
   },
@@ -1124,45 +1124,24 @@
     "lat": 40.2552,
     "lon": 40.2249,
     "current": {
-      "temp": 0.29,
-      "feels_like": 0.29,
-      "humidity": 73,
+      "temp": -2.57,
+      "feels_like": -2.57,
+      "humidity": 76,
       "description": "kapalı",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 0.3,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 0.3,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 0.15,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 0.65,
-        "description": "parçalı bulutlu",
+        "temp": -2.11,
+        "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 2.79,
+        "temp": 1,
         "description": "kapalı",
         "icon": "04d"
       },
@@ -1186,6 +1165,27 @@
         "temp": 0.46,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 0.99,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 1.19,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 0.19,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -1194,47 +1194,26 @@
     "lat": 40.1451,
     "lon": 29.9799,
     "current": {
-      "temp": 5.75,
-      "feels_like": 5.75,
-      "humidity": 90,
-      "description": "parçalı az bulutlu",
-      "icon": "03n"
+      "temp": 3.87,
+      "feels_like": 2.29,
+      "humidity": 89,
+      "description": "kapalı",
+      "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 5.94,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 5.01,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 3.95,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 3.86,
-        "description": "parçalı bulutlu",
+        "temp": 3.99,
+        "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 9.25,
-        "description": "parçalı az bulutlu",
-        "icon": "03d"
+        "temp": 7.46,
+        "description": "parçalı bulutlu",
+        "icon": "04d"
       },
       {
         "dt": 1766577600,
@@ -1256,6 +1235,27 @@
         "temp": 6.95,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 6.68,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 6.24,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 5.89,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -1264,45 +1264,24 @@
     "lat": 38.88,
     "lon": 40.498,
     "current": {
-      "temp": 1.61,
-      "feels_like": 1.61,
-      "humidity": 71,
-      "description": "parçalı bulutlu",
-      "icon": "04n"
+      "temp": -0.7,
+      "feels_like": -0.7,
+      "humidity": 74,
+      "description": "az bulutlu",
+      "icon": "02n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 1.74,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 0.87,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 1.89,
-        "description": "az bulutlu",
-        "icon": "02n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 3.53,
-        "description": "parçalı az bulutlu",
-        "icon": "03d"
+        "temp": -0.1,
+        "description": "az bulutlu",
+        "icon": "02d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 6.32,
+        "temp": 3.98,
         "description": "parçalı az bulutlu",
         "icon": "03d"
       },
@@ -1326,6 +1305,27 @@
         "temp": 3.65,
         "description": "parçalı bulutlu",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 2.58,
+        "description": "parçalı az bulutlu",
+        "icon": "03n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 2.22,
+        "description": "parçalı az bulutlu",
+        "icon": "03n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 1.79,
+        "description": "açık",
+        "icon": "01n"
       }
     ]
   },
@@ -1334,45 +1334,24 @@
     "lat": 38.4006,
     "lon": 42.1095,
     "current": {
-      "temp": -1.19,
-      "feels_like": -1.19,
-      "humidity": 71,
-      "description": "kapalı",
-      "icon": "04n"
+      "temp": -2.45,
+      "feels_like": -2.45,
+      "humidity": 75,
+      "description": "açık",
+      "icon": "01n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": -1.07,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": -1.21,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": -1.07,
-        "description": "açık",
-        "icon": "01n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 1.31,
+        "temp": -2.12,
         "description": "açık",
         "icon": "01d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 4.2,
+        "temp": 1.98,
         "description": "az bulutlu",
         "icon": "02d"
       },
@@ -1396,6 +1375,27 @@
         "temp": -0.19,
         "description": "parçalı az bulutlu",
         "icon": "03n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": -0.41,
+        "description": "açık",
+        "icon": "01n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": -0.56,
+        "description": "açık",
+        "icon": "01n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": -1.06,
+        "description": "açık",
+        "icon": "01n"
       }
     ]
   },
@@ -1404,47 +1404,26 @@
     "lat": 40.735,
     "lon": 31.6061,
     "current": {
-      "temp": 5.28,
-      "feels_like": 5.28,
-      "humidity": 92,
+      "temp": 5.06,
+      "feels_like": 3.91,
+      "humidity": 78,
       "description": "kapalı",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 5.35,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 5.58,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 3.66,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 3.94,
+        "temp": 4.82,
         "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 9.27,
-        "description": "parçalı az bulutlu",
-        "icon": "03d"
+        "temp": 7.87,
+        "description": "parçalı bulutlu",
+        "icon": "04d"
       },
       {
         "dt": 1766577600,
@@ -1466,6 +1445,27 @@
         "temp": 5.45,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 5.01,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 5.4,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 5.89,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -1474,45 +1474,24 @@
     "lat": 37.7204,
     "lon": 30.2908,
     "current": {
-      "temp": 4.95,
-      "feels_like": 3.84,
-      "humidity": 93,
-      "description": "parçalı bulutlu",
-      "icon": "04n"
+      "temp": 3.28,
+      "feels_like": 3.28,
+      "humidity": 100,
+      "description": "parçalı az bulutlu",
+      "icon": "03n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 4.89,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 3.35,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 8.01,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 7.48,
-        "description": "parçalı bulutlu",
-        "icon": "04d"
+        "temp": 4.07,
+        "description": "parçalı az bulutlu",
+        "icon": "03d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 9.35,
+        "temp": 7.33,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
@@ -1536,6 +1515,27 @@
         "temp": 8.48,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 8.31,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 8,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 7.53,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -1544,45 +1544,24 @@
     "lat": 40.1828,
     "lon": 29.0665,
     "current": {
-      "temp": 8.25,
-      "feels_like": 7.78,
-      "humidity": 89,
-      "description": "açık",
-      "icon": "01n"
+      "temp": 7.03,
+      "feels_like": 6.46,
+      "humidity": 79,
+      "description": "kapalı",
+      "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 8.35,
-        "description": "az bulutlu",
-        "icon": "02n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 7.93,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 7.32,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 7.57,
-        "description": "parçalı bulutlu",
+        "temp": 7.21,
+        "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 12.57,
+        "temp": 10.72,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
@@ -1606,6 +1585,27 @@
         "temp": 10.81,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 10.68,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 10.47,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 10.68,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -1614,45 +1614,24 @@
     "lat": 40.1553,
     "lon": 26.4142,
     "current": {
-      "temp": 6.64,
-      "feels_like": 5.22,
-      "humidity": 87,
-      "description": "parçalı az bulutlu",
-      "icon": "03n"
+      "temp": 4.97,
+      "feels_like": 2.81,
+      "humidity": 93,
+      "description": "parçalı bulutlu",
+      "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 7.27,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 7.12,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 7.02,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 7.3,
+        "temp": 5.8,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 12.34,
+        "temp": 9.88,
         "description": "kapalı",
         "icon": "04d"
       },
@@ -1676,6 +1655,27 @@
         "temp": 10.97,
         "description": "hafif yağmur",
         "icon": "10n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 10.44,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 10.65,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 10.16,
+        "description": "hafif yağmur",
+        "icon": "10n"
       }
     ]
   },
@@ -1684,46 +1684,25 @@
     "lat": 40.6013,
     "lon": 33.6134,
     "current": {
-      "temp": 3.9,
-      "feels_like": 3.9,
-      "humidity": 95,
-      "description": "kapalı",
+      "temp": 3.09,
+      "feels_like": 3.09,
+      "humidity": 93,
+      "description": "parçalı bulutlu",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 4.13,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 3.97,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 2.91,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 3.13,
+        "temp": 3.12,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 5.85,
-        "description": "kapalı",
+        "temp": 4.93,
+        "description": "parçalı bulutlu",
         "icon": "04d"
       },
       {
@@ -1746,6 +1725,27 @@
         "temp": 3.83,
         "description": "parçalı bulutlu",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 2.93,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 2.68,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 2.19,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -1754,45 +1754,24 @@
     "lat": 40.5506,
     "lon": 34.9556,
     "current": {
-      "temp": 5.44,
-      "feels_like": 5.44,
-      "humidity": 96,
+      "temp": 5.15,
+      "feels_like": 5.15,
+      "humidity": 91,
       "description": "kapalı",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 5.36,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 4.98,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 4.47,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 3.84,
-        "description": "parçalı bulutlu",
+        "temp": 5.19,
+        "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 7.58,
+        "temp": 6.77,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
@@ -1816,6 +1795,27 @@
         "temp": 4.86,
         "description": "az bulutlu",
         "icon": "02n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 4.15,
+        "description": "parçalı az bulutlu",
+        "icon": "03n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 3.3,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 2.6,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -1824,45 +1824,24 @@
     "lat": 37.7765,
     "lon": 29.0864,
     "current": {
-      "temp": 7.91,
-      "feels_like": 7.91,
-      "humidity": 83,
-      "description": "parçalı bulutlu",
+      "temp": 7.57,
+      "feels_like": 7.57,
+      "humidity": 87,
+      "description": "kapalı",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 7.68,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 7.45,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 10.02,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 10.09,
+        "temp": 7.61,
         "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 14.16,
+        "temp": 11.96,
         "description": "kapalı",
         "icon": "04d"
       },
@@ -1886,6 +1865,27 @@
         "temp": 11.53,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 10.63,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 10.52,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 10.49,
+        "description": "hafif yağmur",
+        "icon": "10n"
       }
     ]
   },
@@ -1894,45 +1894,24 @@
     "lat": 37.9144,
     "lon": 40.2306,
     "current": {
-      "temp": 4.06,
-      "feels_like": 2.82,
-      "humidity": 81,
+      "temp": -0.94,
+      "feels_like": -0.94,
+      "humidity": 93,
       "description": "açık",
       "icon": "01n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 3.7,
-        "description": "az bulutlu",
-        "icon": "02n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 2.52,
-        "description": "az bulutlu",
-        "icon": "02n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 4.23,
-        "description": "az bulutlu",
-        "icon": "02n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 5.92,
-        "description": "parçalı az bulutlu",
-        "icon": "03d"
+        "temp": 0.5,
+        "description": "az bulutlu",
+        "icon": "02d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 10.04,
+        "temp": 6.38,
         "description": "parçalı az bulutlu",
         "icon": "03d"
       },
@@ -1956,6 +1935,27 @@
         "temp": 7.1,
         "description": "az bulutlu",
         "icon": "02n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 5.86,
+        "description": "açık",
+        "icon": "01n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 4.81,
+        "description": "açık",
+        "icon": "01n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 3.83,
+        "description": "az bulutlu",
+        "icon": "02n"
       }
     ]
   },
@@ -1964,45 +1964,24 @@
     "lat": 40.8438,
     "lon": 31.1565,
     "current": {
-      "temp": 9.26,
-      "feels_like": 9.26,
-      "humidity": 92,
+      "temp": 7.89,
+      "feels_like": 6.87,
+      "humidity": 82,
       "description": "kapalı",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 9.04,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 8.37,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 7.43,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 7.6,
+        "temp": 7.87,
         "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 12.94,
+        "temp": 11.26,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
@@ -2026,6 +2005,27 @@
         "temp": 9.27,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 8.84,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 9.09,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 9.26,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -2034,45 +2034,24 @@
     "lat": 41.6771,
     "lon": 26.5557,
     "current": {
-      "temp": 4.83,
-      "feels_like": 4.83,
-      "humidity": 83,
-      "description": "az bulutlu",
-      "icon": "02n"
+      "temp": 4.82,
+      "feels_like": 3.58,
+      "humidity": 91,
+      "description": "kapalı",
+      "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 4.88,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 4.48,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 5.43,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 5.32,
+        "temp": 4.72,
         "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 9.28,
+        "temp": 7.79,
         "description": "kapalı",
         "icon": "04d"
       },
@@ -2096,6 +2075,27 @@
         "temp": 9.64,
         "description": "hafif yağmur",
         "icon": "10n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 10.07,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 9.71,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 9.42,
+        "description": "orta şiddetli yağmur",
+        "icon": "10n"
       }
     ]
   },
@@ -2104,45 +2104,24 @@
     "lat": 38.681,
     "lon": 39.2264,
     "current": {
-      "temp": -0.32,
-      "feels_like": -2.9,
-      "humidity": 80,
+      "temp": -5.32,
+      "feels_like": -8.74,
+      "humidity": 100,
       "description": "açık",
       "icon": "01n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": -0.46,
-        "description": "az bulutlu",
-        "icon": "02n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": -1.6,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 1.52,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 3.37,
-        "description": "parçalı bulutlu",
-        "icon": "04d"
+        "temp": -3.35,
+        "description": "az bulutlu",
+        "icon": "02d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 5.81,
+        "temp": 2.1,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
@@ -2166,6 +2145,27 @@
         "temp": 3.26,
         "description": "açık",
         "icon": "01n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 2.34,
+        "description": "açık",
+        "icon": "01n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 1.45,
+        "description": "az bulutlu",
+        "icon": "02n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 1.09,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
       }
     ]
   },
@@ -2174,45 +2174,24 @@
     "lat": 39.75,
     "lon": 39.5,
     "current": {
-      "temp": -0.39,
-      "feels_like": -2.99,
-      "humidity": 74,
-      "description": "açık",
-      "icon": "01n"
+      "temp": -3.39,
+      "feels_like": -3.39,
+      "humidity": 86,
+      "description": "parçalı bulutlu",
+      "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": -0.03,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 0.1,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 1.11,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 1.7,
-        "description": "hafif yağmur",
-        "icon": "10d"
+        "temp": -2.65,
+        "description": "hafif kar yağışlı",
+        "icon": "13d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 3.37,
+        "temp": 1.12,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
@@ -2236,6 +2215,27 @@
         "temp": 1.42,
         "description": "parçalı bulutlu",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 1.03,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 0.69,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 0.2,
+        "description": "az bulutlu",
+        "icon": "02n"
       }
     ]
   },
@@ -2244,47 +2244,26 @@
     "lat": 39.9,
     "lon": 41.27,
     "current": {
-      "temp": -3.34,
-      "feels_like": -5.63,
-      "humidity": 80,
-      "description": "açık",
-      "icon": "01n"
+      "temp": -11.13,
+      "feels_like": -11.13,
+      "humidity": 92,
+      "description": "parçalı bulutlu",
+      "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": -3.58,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": -4.39,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": -5.41,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": -4.06,
-        "description": "parçalı az bulutlu",
-        "icon": "03d"
+        "temp": -8.85,
+        "description": "parçalı bulutlu",
+        "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": -1.08,
-        "description": "parçalı az bulutlu",
-        "icon": "03d"
+        "temp": -4.43,
+        "description": "parçalı bulutlu",
+        "icon": "04d"
       },
       {
         "dt": 1766577600,
@@ -2306,6 +2285,27 @@
         "temp": -3.66,
         "description": "parçalı bulutlu",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": -4.44,
+        "description": "az bulutlu",
+        "icon": "02n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": -4.75,
+        "description": "açık",
+        "icon": "01n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": -5.54,
+        "description": "az bulutlu",
+        "icon": "02n"
       }
     ]
   },
@@ -2314,47 +2314,26 @@
     "lat": 39.7767,
     "lon": 30.5206,
     "current": {
-      "temp": 5.74,
-      "feels_like": 5.74,
-      "humidity": 87,
-      "description": "parçalı bulutlu",
-      "icon": "04n"
+      "temp": -0.05,
+      "feels_like": -0.05,
+      "humidity": 100,
+      "description": "sisli",
+      "icon": "50n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 5.57,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 4.26,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 2.88,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 2.86,
-        "description": "parçalı bulutlu",
+        "temp": 0.93,
+        "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 8.09,
-        "description": "parçalı az bulutlu",
-        "icon": "03d"
+        "temp": 5.38,
+        "description": "parçalı bulutlu",
+        "icon": "04d"
       },
       {
         "dt": 1766577600,
@@ -2376,6 +2355,27 @@
         "temp": 6.22,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 5.79,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 5.41,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 5.12,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -2384,45 +2384,24 @@
     "lat": 37.0662,
     "lon": 37.3833,
     "current": {
-      "temp": 4.18,
-      "feels_like": 2.96,
-      "humidity": 79,
+      "temp": 1.96,
+      "feels_like": -0.24,
+      "humidity": 86,
       "description": "sisli",
       "icon": "50n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 4.27,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 4.33,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 3.63,
-        "description": "açık",
-        "icon": "01n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 5.59,
-        "description": "açık",
-        "icon": "01d"
+        "temp": 3.13,
+        "description": "parçalı az bulutlu",
+        "icon": "03d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 9.09,
+        "temp": 6.71,
         "description": "parçalı az bulutlu",
         "icon": "03d"
       },
@@ -2446,6 +2425,27 @@
         "temp": 6.29,
         "description": "açık",
         "icon": "01n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 5.47,
+        "description": "açık",
+        "icon": "01n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 5.11,
+        "description": "az bulutlu",
+        "icon": "02n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 4.74,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -2454,45 +2454,24 @@
     "lat": 40.9128,
     "lon": 38.3895,
     "current": {
-      "temp": 9.63,
-      "feels_like": 9.63,
-      "humidity": 71,
+      "temp": 11.3,
+      "feels_like": 10.44,
+      "humidity": 75,
       "description": "kapalı",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 10.2,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 9.68,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 11.51,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 11.7,
+        "temp": 11.13,
         "description": "hafif yağmur",
         "icon": "10d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 12.63,
+        "temp": 12.19,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
@@ -2516,6 +2495,27 @@
         "temp": 11.17,
         "description": "hafif yağmur",
         "icon": "10n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 10.78,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 10.39,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 9.87,
+        "description": "hafif yağmur",
+        "icon": "10n"
       }
     ]
   },
@@ -2524,45 +2524,24 @@
     "lat": 40.46,
     "lon": 39.47,
     "current": {
-      "temp": 2.56,
-      "feels_like": -0.11,
-      "humidity": 73,
+      "temp": 0.05,
+      "feels_like": -2.54,
+      "humidity": 78,
       "description": "kapalı",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 2.56,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 2.47,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 2.61,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 2.53,
+        "temp": 0.4,
         "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 4.07,
+        "temp": 2.73,
         "description": "hafif yağmur",
         "icon": "10d"
       },
@@ -2586,6 +2565,27 @@
         "temp": 2.89,
         "description": "hafif yağmur",
         "icon": "10n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 3.12,
+        "description": "hafif kar yağışlı",
+        "icon": "13n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 2.25,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 1.39,
+        "description": "az bulutlu",
+        "icon": "02n"
       }
     ]
   },
@@ -2594,47 +2594,26 @@
     "lat": 37.5833,
     "lon": 43.7333,
     "current": {
-      "temp": -4.82,
-      "feels_like": -4.82,
-      "humidity": 73,
-      "description": "açık",
-      "icon": "01n"
+      "temp": -4.94,
+      "feels_like": -4.94,
+      "humidity": 77,
+      "description": "parçalı bulutlu",
+      "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": -4.67,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": -3.85,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": -4.99,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": -2.4,
-        "description": "parçalı az bulutlu",
-        "icon": "03d"
+        "temp": -4.04,
+        "description": "parçalı bulutlu",
+        "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 0.6,
-        "description": "açık",
-        "icon": "01d"
+        "temp": -1.25,
+        "description": "az bulutlu",
+        "icon": "02d"
       },
       {
         "dt": 1766577600,
@@ -2656,6 +2635,27 @@
         "temp": -3.96,
         "description": "açık",
         "icon": "01n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": -4.27,
+        "description": "açık",
+        "icon": "01n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": -4.65,
+        "description": "açık",
+        "icon": "01n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": -5.17,
+        "description": "açık",
+        "icon": "01n"
       }
     ]
   },
@@ -2664,45 +2664,24 @@
     "lat": 36.4018,
     "lon": 36.3498,
     "current": {
-      "temp": 8.99,
-      "feels_like": 8.45,
-      "humidity": 87,
-      "description": "parçalı bulutlu",
-      "icon": "04n"
+      "temp": 2.99,
+      "feels_like": 2.99,
+      "humidity": 100,
+      "description": "sisli",
+      "icon": "50n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 8.51,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 7.14,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 7.73,
-        "description": "açık",
-        "icon": "01n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 9.04,
-        "description": "açık",
-        "icon": "01d"
+        "temp": 4.57,
+        "description": "az bulutlu",
+        "icon": "02d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 13.55,
+        "temp": 10.03,
         "description": "açık",
         "icon": "01d"
       },
@@ -2726,6 +2705,27 @@
         "temp": 11.12,
         "description": "açık",
         "icon": "01n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 10.2,
+        "description": "az bulutlu",
+        "icon": "02n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 9.52,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 8.87,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -2734,45 +2734,24 @@
     "lat": 39.9167,
     "lon": 44.0333,
     "current": {
-      "temp": 1.56,
-      "feels_like": -1.24,
-      "humidity": 80,
-      "description": "parçalı bulutlu",
-      "icon": "04n"
+      "temp": -2.44,
+      "feels_like": -4.61,
+      "humidity": 93,
+      "description": "parçalı az bulutlu",
+      "icon": "03n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 2.15,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 2.31,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 1.62,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 3.33,
+        "temp": -0.47,
         "description": "parçalı az bulutlu",
         "icon": "03d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 7.44,
+        "temp": 4.15,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
@@ -2796,6 +2775,27 @@
         "temp": 3.96,
         "description": "parçalı bulutlu",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 3.17,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 2.29,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 1.32,
+        "description": "açık",
+        "icon": "01n"
       }
     ]
   },
@@ -2804,45 +2804,24 @@
     "lat": 37.7648,
     "lon": 30.5566,
     "current": {
-      "temp": 4.82,
-      "feels_like": 3.69,
-      "humidity": 93,
-      "description": "parçalı bulutlu",
-      "icon": "04n"
+      "temp": 2.82,
+      "feels_like": 2.82,
+      "humidity": 100,
+      "description": "parçalı az bulutlu",
+      "icon": "03n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 4.65,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 2.82,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 4.28,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 5.13,
+        "temp": 3.09,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 7.93,
+        "temp": 6.23,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
@@ -2866,6 +2845,27 @@
         "temp": 5.85,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 5.84,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 5.14,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 4.61,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -2874,46 +2874,25 @@
     "lat": 38.4192,
     "lon": 27.1287,
     "current": {
-      "temp": 9.26,
-      "feels_like": 9.26,
-      "humidity": 87,
-      "description": "açık",
-      "icon": "01n"
+      "temp": 4.74,
+      "feels_like": 4.74,
+      "humidity": 100,
+      "description": "sisli",
+      "icon": "50n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 9.9,
-        "description": "az bulutlu",
-        "icon": "02n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 6.93,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 10.45,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 10.06,
-        "description": "parçalı bulutlu",
-        "icon": "04d"
+        "temp": 5.96,
+        "description": "parçalı az bulutlu",
+        "icon": "03d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 14.94,
-        "description": "kapalı",
+        "temp": 11.54,
+        "description": "parçalı bulutlu",
         "icon": "04d"
       },
       {
@@ -2936,6 +2915,27 @@
         "temp": 12.35,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 12.34,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 12.22,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 11.74,
+        "description": "hafif yağmur",
+        "icon": "10n"
       }
     ]
   },
@@ -2944,45 +2944,24 @@
     "lat": 37.5858,
     "lon": 36.9371,
     "current": {
-      "temp": 7.1,
-      "feels_like": 6.29,
-      "humidity": 76,
-      "description": "parçalı bulutlu",
-      "icon": "04n"
+      "temp": 1.1,
+      "feels_like": -1.25,
+      "humidity": 87,
+      "description": "parçalı az bulutlu",
+      "icon": "03n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 6.46,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 5.27,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 4.1,
-        "description": "açık",
-        "icon": "01n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 6.03,
-        "description": "açık",
-        "icon": "01d"
+        "temp": 2.7,
+        "description": "parçalı az bulutlu",
+        "icon": "03d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 9.71,
+        "temp": 6.84,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
@@ -3006,6 +2985,27 @@
         "temp": 6.97,
         "description": "açık",
         "icon": "01n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 6.07,
+        "description": "az bulutlu",
+        "icon": "02n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 5.44,
+        "description": "parçalı az bulutlu",
+        "icon": "03n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 5.11,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -3014,46 +3014,25 @@
     "lat": 41.2061,
     "lon": 32.6204,
     "current": {
-      "temp": 4.78,
-      "feels_like": 4.78,
-      "humidity": 91,
+      "temp": 4.62,
+      "feels_like": 4.62,
+      "humidity": 87,
       "description": "parçalı bulutlu",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 4.9,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 4.39,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 3.11,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 3.34,
+        "temp": 4.36,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 7.34,
-        "description": "kapalı",
+        "temp": 6.43,
+        "description": "parçalı bulutlu",
         "icon": "04d"
       },
       {
@@ -3076,6 +3055,27 @@
         "temp": 4.2,
         "description": "parçalı bulutlu",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 3.06,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 2.43,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 1.57,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -3084,45 +3084,24 @@
     "lat": 37.1759,
     "lon": 33.2287,
     "current": {
-      "temp": 5.37,
-      "feels_like": 2.16,
-      "humidity": 73,
+      "temp": 3.44,
+      "feels_like": 0.8,
+      "humidity": 82,
       "description": "az bulutlu",
       "icon": "02n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 5.2,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 3.56,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 3.31,
-        "description": "az bulutlu",
-        "icon": "02n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 4.28,
+        "temp": 3.68,
         "description": "az bulutlu",
         "icon": "02d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 8.94,
+        "temp": 7.11,
         "description": "az bulutlu",
         "icon": "02d"
       },
@@ -3146,6 +3125,27 @@
         "temp": 6.46,
         "description": "az bulutlu",
         "icon": "02n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 5.73,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 5.31,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 4.67,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -3154,46 +3154,25 @@
     "lat": 40.6167,
     "lon": 43.1,
     "current": {
-      "temp": -7.01,
-      "feels_like": -11.42,
-      "humidity": 93,
-      "description": "parçalı bulutlu",
-      "icon": "04n"
+      "temp": -12.01,
+      "feels_like": -12.01,
+      "humidity": 92,
+      "description": "sisli",
+      "icon": "50n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": -7.44,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": -9.7,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": -11.23,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": -7.28,
-        "description": "parçalı bulutlu",
-        "icon": "04d"
+        "temp": -8.98,
+        "description": "parçalı az bulutlu",
+        "icon": "03d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": -2.12,
-        "description": "kapalı",
+        "temp": -5.42,
+        "description": "parçalı bulutlu",
         "icon": "04d"
       },
       {
@@ -3216,6 +3195,27 @@
         "temp": -8.57,
         "description": "parçalı bulutlu",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": -10.25,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": -10.65,
+        "description": "parçalı az bulutlu",
+        "icon": "03n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": -11.04,
+        "description": "parçalı az bulutlu",
+        "icon": "03n"
       }
     ]
   },
@@ -3224,45 +3224,24 @@
     "lat": 41.3887,
     "lon": 33.7827,
     "current": {
-      "temp": 5.48,
-      "feels_like": 5.48,
-      "humidity": 95,
+      "temp": 5.3,
+      "feels_like": 5.3,
+      "humidity": 86,
       "description": "kapalı",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 5.47,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 5.08,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 4.87,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 5.1,
+        "temp": 5.38,
         "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 8.03,
+        "temp": 7.12,
         "description": "kapalı",
         "icon": "04d"
       },
@@ -3286,6 +3265,27 @@
         "temp": 3.92,
         "description": "parçalı bulutlu",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 3.02,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 2.13,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 1.71,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -3294,45 +3294,24 @@
     "lat": 38.7312,
     "lon": 35.4787,
     "current": {
-      "temp": 4.99,
-      "feels_like": 4.99,
-      "humidity": 70,
-      "description": "parçalı bulutlu",
-      "icon": "04n"
+      "temp": -0.01,
+      "feels_like": -0.01,
+      "humidity": 86,
+      "description": "hafif kar yağışlı",
+      "icon": "13n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 3.68,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 1.45,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 3.69,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 4.57,
-        "description": "hafif yağmur",
-        "icon": "10d"
+        "temp": 0.18,
+        "description": "hafif kar yağışlı",
+        "icon": "13d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 7,
+        "temp": 4.66,
         "description": "kapalı",
         "icon": "04d"
       },
@@ -3356,6 +3335,27 @@
         "temp": 6.56,
         "description": "parçalı az bulutlu",
         "icon": "03n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 4.54,
+        "description": "parçalı az bulutlu",
+        "icon": "03n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 4.01,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 3.43,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -3364,45 +3364,24 @@
     "lat": 39.8468,
     "lon": 33.5153,
     "current": {
-      "temp": 5.88,
-      "feels_like": 5.88,
+      "temp": 4.77,
+      "feels_like": 3.32,
       "humidity": 50,
-      "description": "kapalı",
-      "icon": "04n"
+      "description": "parçalı az bulutlu",
+      "icon": "03n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 5.26,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 2.79,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 3.73,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 4.21,
-        "description": "parçalı bulutlu",
-        "icon": "04d"
+        "temp": 4.16,
+        "description": "parçalı az bulutlu",
+        "icon": "03d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 8.43,
+        "temp": 7.21,
         "description": "parçalı az bulutlu",
         "icon": "03d"
       },
@@ -3426,6 +3405,27 @@
         "temp": 6.36,
         "description": "parçalı bulutlu",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 5.1,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 4.6,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 4.71,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -3434,45 +3434,24 @@
     "lat": 41.7333,
     "lon": 27.2167,
     "current": {
-      "temp": 6.05,
-      "feels_like": 5.16,
-      "humidity": 85,
+      "temp": 5,
+      "feels_like": 3.22,
+      "humidity": 88,
       "description": "kapalı",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 5.91,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 5.37,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 5.32,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 5.89,
+        "temp": 4.93,
         "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 10.06,
+        "temp": 8.37,
         "description": "kapalı",
         "icon": "04d"
       },
@@ -3496,6 +3475,27 @@
         "temp": 9.04,
         "description": "hafif yağmur",
         "icon": "10n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 9.42,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 8.9,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 8.36,
+        "description": "hafif yağmur",
+        "icon": "10n"
       }
     ]
   },
@@ -3504,47 +3504,26 @@
     "lat": 39.1425,
     "lon": 34.1709,
     "current": {
-      "temp": 3.26,
-      "feels_like": 1.98,
-      "humidity": 88,
+      "temp": 2.73,
+      "feels_like": 2.73,
+      "humidity": 92,
       "description": "kapalı",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 3.69,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 1.51,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 5.02,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 4.18,
+        "temp": 2.61,
         "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 7.72,
-        "description": "parçalı az bulutlu",
-        "icon": "03d"
+        "temp": 6.06,
+        "description": "parçalı bulutlu",
+        "icon": "04d"
       },
       {
         "dt": 1766577600,
@@ -3566,6 +3545,27 @@
         "temp": 4.76,
         "description": "parçalı az bulutlu",
         "icon": "03n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 4.17,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 3.84,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 3.17,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -3574,45 +3574,24 @@
     "lat": 36.7184,
     "lon": 37.1212,
     "current": {
-      "temp": 6.6,
-      "feels_like": 4.69,
-      "humidity": 72,
-      "description": "az bulutlu",
-      "icon": "02n"
+      "temp": 3.41,
+      "feels_like": 2,
+      "humidity": 79,
+      "description": "açık",
+      "icon": "01n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 6.13,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 5.39,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 4.87,
-        "description": "açık",
-        "icon": "01n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 6.49,
+        "temp": 4.13,
         "description": "açık",
         "icon": "01d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 10.07,
+        "temp": 7.85,
         "description": "açık",
         "icon": "01d"
       },
@@ -3636,6 +3615,27 @@
         "temp": 7.71,
         "description": "açık",
         "icon": "01n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 6.7,
+        "description": "açık",
+        "icon": "01n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 6.02,
+        "description": "parçalı az bulutlu",
+        "icon": "03n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 5.84,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -3644,47 +3644,26 @@
     "lat": 40.8533,
     "lon": 29.8815,
     "current": {
-      "temp": 7.44,
-      "feels_like": 6.38,
-      "humidity": 91,
+      "temp": 3,
+      "feels_like": 3,
+      "humidity": 92,
       "description": "kapalı",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 7.35,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 6.39,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 5.62,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 5.66,
+        "temp": 4.03,
         "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 9.94,
-        "description": "parçalı az bulutlu",
-        "icon": "03d"
+        "temp": 7.63,
+        "description": "parçalı bulutlu",
+        "icon": "04d"
       },
       {
         "dt": 1766577600,
@@ -3706,6 +3685,27 @@
         "temp": 6.85,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 6.72,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 7.05,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 7.26,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -3714,45 +3714,24 @@
     "lat": 37.8667,
     "lon": 32.4833,
     "current": {
-      "temp": 5.99,
-      "feels_like": 5.99,
-      "humidity": 93,
+      "temp": 3.99,
+      "feels_like": 2.13,
+      "humidity": 87,
       "description": "parçalı bulutlu",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 5.74,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 2.97,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 5.25,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 5.81,
+        "temp": 4.38,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 9.1,
+        "temp": 7.4,
         "description": "parçalı az bulutlu",
         "icon": "03d"
       },
@@ -3776,6 +3755,27 @@
         "temp": 7.11,
         "description": "parçalı bulutlu",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 5.94,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 5.33,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 4.88,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -3784,45 +3784,24 @@
     "lat": 39.4167,
     "lon": 29.9833,
     "current": {
-      "temp": 4.64,
-      "feels_like": 4.64,
-      "humidity": 85,
-      "description": "parçalı az bulutlu",
-      "icon": "03n"
+      "temp": 1.37,
+      "feels_like": 1.37,
+      "humidity": 95,
+      "description": "kapalı",
+      "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 4.31,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 3.18,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 2.07,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 2.49,
+        "temp": 1.56,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 7.68,
+        "temp": 5.58,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
@@ -3846,6 +3825,27 @@
         "temp": 5.86,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 5.15,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 4.67,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 5.11,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -3854,45 +3854,24 @@
     "lat": 38.3552,
     "lon": 38.3095,
     "current": {
-      "temp": 4.94,
-      "feels_like": 3.47,
-      "humidity": 70,
-      "description": "kapalı",
+      "temp": -0.62,
+      "feels_like": -0.62,
+      "humidity": 78,
+      "description": "parçalı bulutlu",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 3.49,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 0.56,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 4.16,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 5.21,
+        "temp": 0.63,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 7.38,
+        "temp": 4.71,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
@@ -3916,6 +3895,27 @@
         "temp": 5.66,
         "description": "az bulutlu",
         "icon": "02n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 4.82,
+        "description": "az bulutlu",
+        "icon": "02n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 4.05,
+        "description": "parçalı az bulutlu",
+        "icon": "03n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 3.61,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
       }
     ]
   },
@@ -3924,45 +3924,24 @@
     "lat": 38.6191,
     "lon": 27.4289,
     "current": {
-      "temp": 10.19,
-      "feels_like": 9.46,
-      "humidity": 84,
-      "description": "az bulutlu",
-      "icon": "02n"
+      "temp": 7.49,
+      "feels_like": 7.49,
+      "humidity": 89,
+      "description": "parçalı bulutlu",
+      "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 9.34,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 7.29,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 9.17,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 8.63,
+        "temp": 7.62,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 13.27,
+        "temp": 11.34,
         "description": "kapalı",
         "icon": "04d"
       },
@@ -3986,6 +3965,27 @@
         "temp": 11.47,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 11.67,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 11.48,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 11.92,
+        "description": "hafif yağmur",
+        "icon": "10n"
       }
     ]
   },
@@ -3994,45 +3994,24 @@
     "lat": 37.3212,
     "lon": 40.7245,
     "current": {
-      "temp": 6.19,
-      "feels_like": 6.19,
-      "humidity": 66,
+      "temp": 0.19,
+      "feels_like": -3.35,
+      "humidity": 87,
       "description": "açık",
       "icon": "01n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 4.94,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 3.04,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 3.49,
-        "description": "açık",
-        "icon": "01n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 5.38,
+        "temp": 0.74,
         "description": "açık",
         "icon": "01d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 8.85,
+        "temp": 5.96,
         "description": "açık",
         "icon": "01d"
       },
@@ -4056,6 +4035,27 @@
         "temp": 5.33,
         "description": "açık",
         "icon": "01n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 4.9,
+        "description": "açık",
+        "icon": "01n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 4.15,
+        "description": "açık",
+        "icon": "01n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 3.31,
+        "description": "açık",
+        "icon": "01n"
       }
     ]
   },
@@ -4064,45 +4064,24 @@
     "lat": 36.8,
     "lon": 34.6333,
     "current": {
-      "temp": 14.73,
-      "feels_like": 13.56,
-      "humidity": 50,
-      "description": "kapalı",
-      "icon": "04n"
+      "temp": 12.54,
+      "feels_like": 11.26,
+      "humidity": 54,
+      "description": "açık",
+      "icon": "01n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 14.49,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 13.62,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 12.35,
-        "description": "açık",
-        "icon": "01n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 12.73,
+        "temp": 12.69,
         "description": "açık",
         "icon": "01d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 15.9,
+        "temp": 14.78,
         "description": "açık",
         "icon": "01d"
       },
@@ -4126,6 +4105,27 @@
         "temp": 14,
         "description": "açık",
         "icon": "01n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 13.35,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 12.93,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 12.84,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -4134,45 +4134,24 @@
     "lat": 37.2153,
     "lon": 28.3636,
     "current": {
-      "temp": 7.65,
-      "feels_like": 6.72,
-      "humidity": 96,
-      "description": "parçalı az bulutlu",
-      "icon": "03n"
+      "temp": 10.86,
+      "feels_like": 9.54,
+      "humidity": 59,
+      "description": "kapalı",
+      "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 7.69,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 7.76,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 9.22,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 9.29,
+        "temp": 9.13,
         "description": "hafif yağmur",
         "icon": "10d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 10.78,
+        "temp": 10.81,
         "description": "hafif yağmur",
         "icon": "10d"
       },
@@ -4196,6 +4175,27 @@
         "temp": 9.11,
         "description": "hafif yağmur",
         "icon": "10n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 9.38,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 9.31,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 9.19,
+        "description": "hafif yağmur",
+        "icon": "10n"
       }
     ]
   },
@@ -4204,47 +4204,26 @@
     "lat": 38.9462,
     "lon": 41.7539,
     "current": {
-      "temp": -3.61,
-      "feels_like": -3.61,
-      "humidity": 66,
-      "description": "parçalı bulutlu",
-      "icon": "04n"
+      "temp": -5.69,
+      "feels_like": -5.69,
+      "humidity": 73,
+      "description": "açık",
+      "icon": "01n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": -3.59,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": -3.95,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": -4.27,
-        "description": "açık",
-        "icon": "01n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": -2.97,
+        "temp": -5.81,
         "description": "az bulutlu",
         "icon": "02d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": -0.18,
-        "description": "parçalı bulutlu",
-        "icon": "04d"
+        "temp": -2.02,
+        "description": "parçalı az bulutlu",
+        "icon": "03d"
       },
       {
         "dt": 1766577600,
@@ -4266,6 +4245,27 @@
         "temp": -3.51,
         "description": "az bulutlu",
         "icon": "02n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": -3.89,
+        "description": "az bulutlu",
+        "icon": "02n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": -4.02,
+        "description": "az bulutlu",
+        "icon": "02n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": -4.3,
+        "description": "açık",
+        "icon": "01n"
       }
     ]
   },
@@ -4274,45 +4274,24 @@
     "lat": 38.6244,
     "lon": 34.7144,
     "current": {
-      "temp": 3.24,
-      "feels_like": 1.23,
+      "temp": 2.24,
+      "feels_like": 0.58,
       "humidity": 78,
       "description": "kapalı",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 2.8,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 0.07,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 4.02,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 4.11,
+        "temp": 1.79,
         "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 6.54,
+        "temp": 5.11,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
@@ -4336,6 +4315,27 @@
         "temp": 4.94,
         "description": "parçalı az bulutlu",
         "icon": "03n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 4.05,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 3.43,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 2.83,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -4344,45 +4344,24 @@
     "lat": 37.9667,
     "lon": 34.6833,
     "current": {
-      "temp": 1.96,
-      "feels_like": -0.1,
-      "humidity": 77,
-      "description": "parçalı bulutlu",
-      "icon": "04n"
+      "temp": 1.23,
+      "feels_like": -0.6,
+      "humidity": 82,
+      "description": "parçalı az bulutlu",
+      "icon": "03n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 2.46,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 0.52,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 2.16,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 3.38,
+        "temp": 1.37,
         "description": "hafif yağmur",
         "icon": "10d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 6.55,
+        "temp": 4.78,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
@@ -4406,6 +4385,27 @@
         "temp": 3.96,
         "description": "parçalı bulutlu",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 3.49,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 3.21,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 2.92,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -4414,45 +4414,24 @@
     "lat": 40.9839,
     "lon": 37.8764,
     "current": {
-      "temp": 9.82,
-      "feels_like": 9.4,
-      "humidity": 93,
-      "description": "hafif yağmur",
-      "icon": "10n"
+      "temp": 11.82,
+      "feels_like": 11.04,
+      "humidity": 76,
+      "description": "parçalı bulutlu",
+      "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 10.2,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 10.51,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 10.13,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 10.32,
-        "description": "kapalı",
+        "temp": 11.46,
+        "description": "parçalı bulutlu",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 12.89,
+        "temp": 12.53,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
@@ -4476,6 +4455,27 @@
         "temp": 10.02,
         "description": "hafif yağmur",
         "icon": "10n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 9.62,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 9.26,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 8.87,
+        "description": "hafif yağmur",
+        "icon": "10n"
       }
     ]
   },
@@ -4484,47 +4484,26 @@
     "lat": 37.0742,
     "lon": 36.2467,
     "current": {
-      "temp": 9.68,
-      "feels_like": 8.04,
-      "humidity": 60,
-      "description": "az bulutlu",
-      "icon": "02n"
+      "temp": 8.2,
+      "feels_like": 7.07,
+      "humidity": 67,
+      "description": "parçalı bulutlu",
+      "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 9.7,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 8.82,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 9.93,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 11.39,
+        "temp": 8.77,
         "description": "parçalı az bulutlu",
         "icon": "03d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 15.82,
-        "description": "az bulutlu",
-        "icon": "02d"
+        "temp": 13.28,
+        "description": "parçalı az bulutlu",
+        "icon": "03d"
       },
       {
         "dt": 1766577600,
@@ -4546,6 +4525,27 @@
         "temp": 11.52,
         "description": "açık",
         "icon": "01n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 10.91,
+        "description": "parçalı az bulutlu",
+        "icon": "03n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 10.73,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 10.71,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -4554,45 +4554,24 @@
     "lat": 41.0201,
     "lon": 40.5234,
     "current": {
-      "temp": 10.71,
-      "feels_like": 9.35,
-      "humidity": 58,
+      "temp": 9.33,
+      "feels_like": 8.73,
+      "humidity": 63,
       "description": "kapalı",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 10.68,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 10.56,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 10.21,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 10.77,
+        "temp": 9.64,
         "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 11.26,
+        "temp": 10.62,
         "description": "hafif yağmur",
         "icon": "10d"
       },
@@ -4616,6 +4595,27 @@
         "temp": 9.65,
         "description": "hafif yağmur",
         "icon": "10n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 9.3,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 8.85,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 9.19,
+        "description": "hafif yağmur",
+        "icon": "10n"
       }
     ]
   },
@@ -4624,47 +4624,26 @@
     "lat": 40.7569,
     "lon": 30.3783,
     "current": {
-      "temp": 10.21,
-      "feels_like": 9.64,
-      "humidity": 90,
+      "temp": 6.21,
+      "feels_like": 6.21,
+      "humidity": 92,
       "description": "kapalı",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 9.86,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 8.58,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 7.28,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 7.27,
+        "temp": 6.71,
         "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 12.48,
-        "description": "az bulutlu",
-        "icon": "02d"
+        "temp": 10.39,
+        "description": "parçalı az bulutlu",
+        "icon": "03d"
       },
       {
         "dt": 1766577600,
@@ -4686,6 +4665,27 @@
         "temp": 8.55,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 8.03,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 8.29,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 8.29,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -4694,45 +4694,24 @@
     "lat": 41.2928,
     "lon": 36.3313,
     "current": {
-      "temp": 12.98,
-      "feels_like": 12.63,
-      "humidity": 88,
+      "temp": 12.46,
+      "feels_like": 12.09,
+      "humidity": 89,
       "description": "hafif yağmur",
       "icon": "10n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 13.02,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 12.13,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 10.75,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 10.54,
+        "temp": 12.5,
         "description": "hafif yağmur",
         "icon": "10d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 10.91,
+        "temp": 11.43,
         "description": "hafif yağmur",
         "icon": "10d"
       },
@@ -4756,6 +4735,27 @@
         "temp": 9.28,
         "description": "hafif yağmur",
         "icon": "10n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 8.94,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 8.53,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 8.13,
+        "description": "hafif yağmur",
+        "icon": "10n"
       }
     ]
   },
@@ -4764,45 +4764,24 @@
     "lat": 37.9333,
     "lon": 41.95,
     "current": {
-      "temp": 5.25,
-      "feels_like": 5.25,
-      "humidity": 57,
-      "description": "kapalı",
-      "icon": "04n"
+      "temp": 1.8,
+      "feels_like": 1.8,
+      "humidity": 62,
+      "description": "açık",
+      "icon": "01n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 5.17,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 4.51,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 3.98,
-        "description": "açık",
-        "icon": "01n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 6.17,
+        "temp": 2.24,
         "description": "açık",
         "icon": "01d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 8.96,
+        "temp": 6.57,
         "description": "açık",
         "icon": "01d"
       },
@@ -4826,6 +4805,27 @@
         "temp": 5.71,
         "description": "açık",
         "icon": "01n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 4.79,
+        "description": "açık",
+        "icon": "01n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 3.86,
+        "description": "açık",
+        "icon": "01n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 3.04,
+        "description": "açık",
+        "icon": "01n"
       }
     ]
   },
@@ -4834,38 +4834,17 @@
     "lat": 42.0231,
     "lon": 35.1531,
     "current": {
-      "temp": 10.91,
-      "feels_like": 10.48,
-      "humidity": 93,
+      "temp": 9.91,
+      "feels_like": 7.42,
+      "humidity": 81,
       "description": "parçalı bulutlu",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 10.88,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 10.86,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 10.69,
-        "description": "orta şiddetli yağmur",
-        "icon": "10n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 10.16,
+        "temp": 9.81,
         "description": "hafif yağmur",
         "icon": "10d"
       },
@@ -4896,6 +4875,27 @@
         "temp": 9.51,
         "description": "hafif yağmur",
         "icon": "10n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 9.35,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 8.78,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 8.23,
+        "description": "hafif yağmur",
+        "icon": "10n"
       }
     ]
   },
@@ -4904,45 +4904,24 @@
     "lat": 39.7477,
     "lon": 37.0179,
     "current": {
-      "temp": 3.66,
-      "feels_like": -0.41,
-      "humidity": 75,
-      "description": "parçalı bulutlu",
-      "icon": "04n"
+      "temp": 1.99,
+      "feels_like": -1.18,
+      "humidity": 100,
+      "description": "sisli",
+      "icon": "50n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 2.93,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 1.83,
-        "description": "kar yağışlı",
-        "icon": "13n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 1.53,
-        "description": "kar yağışlı",
-        "icon": "13n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 1.57,
-        "description": "hafif kar yağışlı",
-        "icon": "13d"
+        "temp": 2.11,
+        "description": "hafif yağmur",
+        "icon": "10d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 2.37,
+        "temp": 2.24,
         "description": "hafif kar yağışlı",
         "icon": "13d"
       },
@@ -4966,6 +4945,27 @@
         "temp": 2.87,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": -0.19,
+        "description": "parçalı az bulutlu",
+        "icon": "03n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": -0.58,
+        "description": "parçalı az bulutlu",
+        "icon": "03n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": -0.64,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -4974,45 +4974,24 @@
     "lat": 37.1674,
     "lon": 38.7939,
     "current": {
-      "temp": 7.02,
-      "feels_like": 7.02,
-      "humidity": 66,
-      "description": "parçalı az bulutlu",
-      "icon": "03n"
+      "temp": 4.58,
+      "feels_like": 3.29,
+      "humidity": 72,
+      "description": "açık",
+      "icon": "01n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 7.04,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 6.16,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 6.2,
-        "description": "açık",
-        "icon": "01n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 7.86,
+        "temp": 5.29,
         "description": "açık",
         "icon": "01d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 11.4,
+        "temp": 9.13,
         "description": "az bulutlu",
         "icon": "02d"
       },
@@ -5036,6 +5015,27 @@
         "temp": 8.66,
         "description": "açık",
         "icon": "01n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 7.82,
+        "description": "açık",
+        "icon": "01n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 6.91,
+        "description": "açık",
+        "icon": "01n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 6.54,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -5044,45 +5044,24 @@
     "lat": 37.5164,
     "lon": 42.4611,
     "current": {
-      "temp": 0.38,
-      "feels_like": -1.62,
-      "humidity": 58,
-      "description": "parçalı az bulutlu",
-      "icon": "03n"
+      "temp": -1.15,
+      "feels_like": -4,
+      "humidity": 54,
+      "description": "az bulutlu",
+      "icon": "02n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 0.51,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 0.44,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 0.15,
-        "description": "az bulutlu",
-        "icon": "02n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 2.33,
+        "temp": -0.49,
         "description": "açık",
         "icon": "01d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 5.56,
+        "temp": 3.32,
         "description": "açık",
         "icon": "01d"
       },
@@ -5106,6 +5085,27 @@
         "temp": 1.45,
         "description": "açık",
         "icon": "01n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 0.8,
+        "description": "açık",
+        "icon": "01n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 0.08,
+        "description": "açık",
+        "icon": "01n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": -0.26,
+        "description": "açık",
+        "icon": "01n"
       }
     ]
   },
@@ -5114,45 +5114,24 @@
     "lat": 40.9833,
     "lon": 27.5167,
     "current": {
-      "temp": 7.8,
-      "feels_like": 5.53,
-      "humidity": 81,
-      "description": "az bulutlu",
-      "icon": "02n"
+      "temp": 7.2,
+      "feels_like": 4.79,
+      "humidity": 92,
+      "description": "kapalı",
+      "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 7.86,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 8.2,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 9,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 8.63,
+        "temp": 7.32,
         "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 10.91,
+        "temp": 9.67,
         "description": "kapalı",
         "icon": "04d"
       },
@@ -5176,6 +5155,27 @@
         "temp": 10.47,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 10.29,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 10.03,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 9.77,
+        "description": "orta şiddetli yağmur",
+        "icon": "10n"
       }
     ]
   },
@@ -5184,45 +5184,24 @@
     "lat": 40.3167,
     "lon": 36.55,
     "current": {
-      "temp": 9.9,
-      "feels_like": 9.11,
-      "humidity": 73,
+      "temp": 8.23,
+      "feels_like": 7.6,
+      "humidity": 84,
       "description": "kapalı",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 8.69,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 7.16,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 5.56,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 5.53,
+        "temp": 7.61,
         "description": "hafif yağmur",
         "icon": "10d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 7.21,
+        "temp": 7.55,
         "description": "hafif yağmur",
         "icon": "10d"
       },
@@ -5246,6 +5225,27 @@
         "temp": 5.93,
         "description": "parçalı az bulutlu",
         "icon": "03n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 5.18,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 5.48,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 4.22,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -5254,45 +5254,24 @@
     "lat": 41.0027,
     "lon": 39.7168,
     "current": {
-      "temp": 10.84,
-      "feels_like": 10.12,
-      "humidity": 82,
-      "description": "açık",
-      "icon": "01n"
+      "temp": 11.84,
+      "feels_like": 10.8,
+      "humidity": 66,
+      "description": "parçalı bulutlu",
+      "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 11.18,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 11.43,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 11.92,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 11.49,
+        "temp": 11.8,
         "description": "hafif yağmur",
         "icon": "10d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 12.29,
+        "temp": 12.14,
         "description": "kapalı",
         "icon": "04d"
       },
@@ -5316,6 +5295,27 @@
         "temp": 10.27,
         "description": "hafif yağmur",
         "icon": "10n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 10.32,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 10.11,
+        "description": "hafif yağmur",
+        "icon": "10n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 10.09,
+        "description": "hafif yağmur",
+        "icon": "10n"
       }
     ]
   },
@@ -5324,45 +5324,24 @@
     "lat": 39.1079,
     "lon": 39.5401,
     "current": {
-      "temp": 1.53,
-      "feels_like": -0.79,
-      "humidity": 72,
-      "description": "parçalı az bulutlu",
-      "icon": "03n"
+      "temp": -0.06,
+      "feels_like": -2.33,
+      "humidity": 79,
+      "description": "parçalı bulutlu",
+      "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 2.19,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 0.83,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 2.63,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 4.27,
+        "temp": 0.56,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 6.79,
+        "temp": 4.51,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
@@ -5386,6 +5365,27 @@
         "temp": 5.59,
         "description": "parçalı bulutlu",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 4.66,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 3.53,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 2.83,
+        "description": "az bulutlu",
+        "icon": "02n"
       }
     ]
   },
@@ -5394,46 +5394,25 @@
     "lat": 38.6823,
     "lon": 29.4082,
     "current": {
-      "temp": 4.57,
-      "feels_like": 3.51,
-      "humidity": 84,
+      "temp": 2.86,
+      "feels_like": 1.17,
+      "humidity": 90,
       "description": "parçalı az bulutlu",
       "icon": "03n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 4.5,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 3.85,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 3.62,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 4.05,
+        "temp": 3.01,
         "description": "parçalı az bulutlu",
         "icon": "03d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 8.47,
-        "description": "kapalı",
+        "temp": 6.6,
+        "description": "parçalı bulutlu",
         "icon": "04d"
       },
       {
@@ -5456,6 +5435,27 @@
         "temp": 7.13,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 6.64,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 6.3,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 6.41,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -5464,47 +5464,26 @@
     "lat": 38.4891,
     "lon": 43.4089,
     "current": {
-      "temp": -2.61,
-      "feels_like": -2.61,
-      "humidity": 86,
-      "description": "parçalı az bulutlu",
-      "icon": "03n"
+      "temp": -0.61,
+      "feels_like": -3.24,
+      "humidity": 74,
+      "description": "parçalı bulutlu",
+      "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": -3.12,
-        "description": "parçalı az bulutlu",
-        "icon": "03n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": -2.4,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": -3.01,
-        "description": "parçalı bulutlu",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": -1.46,
-        "description": "parçalı az bulutlu",
-        "icon": "03d"
+        "temp": -0.41,
+        "description": "parçalı bulutlu",
+        "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 1.51,
-        "description": "açık",
-        "icon": "01d"
+        "temp": 0.8,
+        "description": "parçalı az bulutlu",
+        "icon": "03d"
       },
       {
         "dt": 1766577600,
@@ -5526,6 +5505,27 @@
         "temp": -1.31,
         "description": "parçalı az bulutlu",
         "icon": "03n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": -1.73,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": -2.43,
+        "description": "parçalı az bulutlu",
+        "icon": "03n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": -3.06,
+        "description": "açık",
+        "icon": "01n"
       }
     ]
   },
@@ -5534,45 +5534,24 @@
     "lat": 40.65,
     "lon": 29.2667,
     "current": {
-      "temp": 10.56,
-      "feels_like": 9.92,
+      "temp": 9.56,
+      "feels_like": 8.39,
       "humidity": 86,
       "description": "kapalı",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 10.75,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 10.69,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 10.05,
-        "description": "kapalı",
-        "icon": "04n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 9.91,
-        "description": "parçalı bulutlu",
+        "temp": 9.72,
+        "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 11.81,
+        "temp": 11.06,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
@@ -5596,6 +5575,27 @@
         "temp": 11.7,
         "description": "kapalı",
         "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 11.42,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 11.28,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 11.08,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -5604,45 +5604,24 @@
     "lat": 39.8181,
     "lon": 34.8147,
     "current": {
-      "temp": 2.4,
-      "feels_like": -0.3,
-      "humidity": 95,
-      "description": "hafif yağmur",
-      "icon": "10n"
+      "temp": 1.69,
+      "feels_like": -1.02,
+      "humidity": 93,
+      "description": "kapalı",
+      "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 2.57,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 1.64,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 2.34,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 2.63,
+        "temp": 1.62,
         "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 5.39,
+        "temp": 4.16,
         "description": "parçalı bulutlu",
         "icon": "04d"
       },
@@ -5666,6 +5645,27 @@
         "temp": 3.27,
         "description": "parçalı az bulutlu",
         "icon": "03n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 2.32,
+        "description": "parçalı bulutlu",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 1.45,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 1.62,
+        "description": "kapalı",
+        "icon": "04n"
       }
     ]
   },
@@ -5674,45 +5674,24 @@
     "lat": 41.4564,
     "lon": 31.7987,
     "current": {
-      "temp": 11.13,
-      "feels_like": 10.62,
-      "humidity": 89,
+      "temp": 10.65,
+      "feels_like": 9.94,
+      "humidity": 83,
       "description": "kapalı",
       "icon": "04n"
     },
     "hourly": [
       {
-        "dt": 1766523600,
-        "dt_txt": "2025-12-23 21:00:00",
-        "temp": 10.93,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766534400,
-        "dt_txt": "2025-12-24 00:00:00",
-        "temp": 10.85,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
-        "dt": 1766545200,
-        "dt_txt": "2025-12-24 03:00:00",
-        "temp": 10.43,
-        "description": "hafif yağmur",
-        "icon": "10n"
-      },
-      {
         "dt": 1766556000,
         "dt_txt": "2025-12-24 06:00:00",
-        "temp": 9.47,
+        "temp": 10.68,
         "description": "kapalı",
         "icon": "04d"
       },
       {
         "dt": 1766566800,
         "dt_txt": "2025-12-24 09:00:00",
-        "temp": 11.65,
+        "temp": 11.32,
         "description": "kapalı",
         "icon": "04d"
       },
@@ -5734,6 +5713,27 @@
         "dt": 1766599200,
         "dt_txt": "2025-12-24 18:00:00",
         "temp": 10.67,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766610000,
+        "dt_txt": "2025-12-24 21:00:00",
+        "temp": 10.26,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766620800,
+        "dt_txt": "2025-12-25 00:00:00",
+        "temp": 10,
+        "description": "kapalı",
+        "icon": "04n"
+      },
+      {
+        "dt": 1766631600,
+        "dt_txt": "2025-12-25 03:00:00",
+        "temp": 9.75,
         "description": "kapalı",
         "icon": "04n"
       }
